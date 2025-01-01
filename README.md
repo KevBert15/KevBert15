@@ -6,10 +6,15 @@ I am highly motivated and eager to apply my knowledge in a real-world setting. I
 
 ## 🛠 Skills
 Advanced Spreadsheets (Excel)
+
 SQL
+
 Python
+
 Data Visualization (Tableau, Power BI)
+
 Business Impact Analysis
+
 Marketing Analytics
 
 # 📊 Recent Projects
